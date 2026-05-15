@@ -1,0 +1,267 @@
+{
+    "Lionel Messi": {
+        "nacionalidad": "argentina",
+        "posicion": "delantero",
+        "epoca": "2000-2020",
+        "zurdo": "si",
+        "capitan": "si"
+    },
+    "Xavi Hernandez": {
+        "nacionalidad": "españa",
+        "posicion": "mediocampista",
+        "epoca": "2000-2010",
+        "zurdo": "no",
+        "capitan": "si"
+    },
+    "Andres Iniesta": {
+        "nacionalidad": "españa",
+        "posicion": "mediocampista",
+        "epoca": "2000-2010",
+        "zurdo": "no",
+        "capitan": "si"
+    },
+    "Ronaldinho": {
+        "nacionalidad": "brasil",
+        "posicion": "delantero",
+        "epoca": "2000-2010",
+        "zurdo": "no",
+        "capitan": "no"
+    },
+    "Gerard Pique": {
+        "nacionalidad": "españa",
+        "posicion": "defensa",
+        "epoca": "2000-2020",
+        "zurdo": "no",
+        "capitan": "si"
+    },
+    "Carles Puyol": {
+        "nacionalidad": "españa",
+        "posicion": "defensa",
+        "epoca": "2000-2010",
+        "zurdo": "no",
+        "capitan": "si"
+    },
+    "Pedri": {
+        "nacionalidad": "españa",
+        "posicion": "mediocampista",
+        "epoca": "actual",
+        "zurdo": "no",
+        "capitan": "no"
+    },
+    "Gavi": {
+        "nacionalidad": "españa",
+        "posicion": "mediocampista",
+        "epoca": "actual",
+        "zurdo": "no",
+        "capitan": "no"
+    },
+    "Lamine Yamal": {
+        "nacionalidad": "españa",
+        "posicion": "delantero",
+        "epoca": "actual",
+        "zurdo": "si",
+        "capitan": "no"
+    },
+    "Neymar Jr": {
+        "nacionalidad": "brasil",
+        "posicion": "delantero",
+        "epoca": "2010-2020",
+        "zurdo": "si"
+    },
+    "Daniel ALves": {
+        "nacionalidad": "brasil",
+        "posicion": "lateral derecho",
+        "epoca": "2000-2010",
+        "zurdo": "no",
+        "capitan": "no"
+    },
+    "Rafa Marquez": {
+        "nacionalidad": "México",
+        "posicion": "defensa",
+        "epoca": "1990-2000",
+        "zurdo": "no",
+        "capitan": "si"
+    },
+    "Jordi Alba": {
+        "nacionalidad": "españa",
+        "posicion": "lateral izquierdo",
+        "epoca": "2010-2020",
+        "zurdo": "no",
+        "capitan": "si"
+    },
+    "Raphinha": {
+        "nacionalidad": "brasil",
+        "posicion": "delantero",
+        "epoca": "actual",
+        "zurdo": "no",
+        "capitan": "si"
+    },
+    "Robert Lewandowski": {
+        "nacionalidad": "Polonia",
+        "posicion": "delantero",
+        "epoca": "actual",
+        "zurdo": "no",
+        "capitan": "no"
+    },
+    "Victor Valdes": {
+        "nacionalidad": "españa",
+        "posicion": "portero",
+        "epoca": "2000-2010",
+        "zurdo": "no",
+        "capitan": "si"
+    },
+    "Luis Suarez": {
+        "nacionalidad": "uruguay",
+        "posicion": "delantero",
+        "epoca": "2010-2020",
+        "zurdo": "no",
+        "capitan": "no"
+    },
+    "Javier Macherano": {
+        "nacionalidad": "argentina",
+        "posicion": "defensa",
+        "epoca": "2010-2020",
+        "zurdo": "no",
+        "capitan": "no"
+    },
+    "Marc-Andre ter Stegen": {
+        "nacionalidad": "alemania",
+        "posicion": "portero",
+        "epoca": "actual",
+        "zurdo": "no",
+        "capitan": "si"
+    },
+    "Sergio Busquets": {
+        "nacionalidad": "españa",
+        "posicion": "mediocampista",
+        "epoca": "2010-2020",
+        "zurdo": "no",
+        "capitan": "si"
+    },
+    "Frenkie de Jong": {
+        "nacionalidad": "holanda",
+        "posicion": "mediocampista",
+        "epoca": "actual",
+        "zurdo": "no",
+        "capitan": "si"
+    },
+    "Ronald Araujo": {
+        "nacionalidad": "uruguay",
+        "posicion": "defensa",
+        "epoca": "actual",
+        "zurdo": "no",
+        "capitan": "si"
+    },
+    "Samuel Etoo": {
+        "nacionalidad": "camerun",
+        "posicion": "delantero",
+        "epoca": "2000-2010",
+        "zurdo": "no",
+        "capitan": "no"
+    },
+    "Thierry Henry": {
+        "nacionalidad": "francia",
+        "posicion": "delantero",
+        "epoca": "2000-2010",
+        "zurdo": "no",
+        "capitan": "no"
+    },
+    "Pep Guardiola": {
+        "nacionalidad": "españa",
+        "posicion": "mediocampista",
+        "epoca": "1990-2000",
+        "zurdo": "no",
+        "capitan": "si"
+    },
+    "Rivaldo": {
+        "nacionalidad": "brasil",
+        "posicion": "mediocampista",
+        "epoca": "1990-2000",
+        "zurdo": "si",
+        "capitan": "no"
+    },
+    "Hristo Stoichkov": {
+        "nacionalidad": "bulgaria",
+        "posicion": "delantero",
+        "epoca": "1990-2000",
+        "zurdo": "si",
+        "capitan": "no"
+    },
+    "Ronald Koeman": {
+        "nacionalidad": "holanda",
+        "posicion": "defensa",
+        "epoca": "1990-2000",
+        "zurdo": "no",
+        "capitan": "no"
+    },
+    "Deco": {
+        "nacionalidad": "portugal",
+        "posicion": "mediocampista",
+        "epoca": "2000-2010",
+        "zurdo": "no",
+        "capitan": "no"
+    },
+    "Ivan Rakitic": {
+        "nacionalidad": "croacia",
+        "posicion": "mediocampista",
+        "epoca": "2010-2020",
+        "zurdo": "no",
+        "capitan": "no"
+    },
+    "David Villa": {
+        "nacionalidad": "españa",
+        "posicion": "delantero",
+        "epoca": "2010-2020",
+        "zurdo": "no",
+        "capitan": "no"
+    },
+    "Pedro Rodriguez": {
+        "nacionalidad": "españa",
+        "posicion": "delantero",
+        "epoca": "2000-2010",
+        "zurdo": "no",
+        "capitan": "no"
+    },
+    "Eric Abidal": {
+        "nacionalidad": "francia",
+        "posicion": "lateral izquierdo",
+        "epoca": "2000-2010",
+        "zurdo": "si",
+        "capitan": "no"
+    },
+    "Yaya Toure": {
+        "nacionalidad": "costa de marfil",
+        "posicion": "mediocampista",
+        "epoca": "2000-2010",
+        "zurdo": "no",
+        "capitan": "no"
+    },
+    "Jules Kounde": {
+        "nacionalidad": "francia",
+        "posicion": "defensa",
+        "epoca": "actual",
+        "zurdo": "no",
+        "capitan": "no"
+    },
+    "Alejandro Balde": {
+        "nacionalidad": "españa",
+        "posicion": "lateral izquierdo",
+        "epoca": "actual",
+        "zurdo": "si",
+        "capitan": "no"
+    },
+    "Pau Cubarsi": {
+        "nacionalidad": "españa",
+        "posicion": "defensa",
+        "epoca": "actual",
+        "zurdo": "no",
+        "capitan": "no"
+    },
+    "Romario": {
+        "nacionalidad": "brasil",
+        "posicion": "delantero",
+        "epoca": "1990-2000",
+        "zurdo": "no",
+        "capitan": "no"
+    }
+}
